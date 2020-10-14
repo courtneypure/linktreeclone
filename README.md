@@ -9,4 +9,4 @@ A linktree clone of animator & developer Courtney Pure.
 ## URL
 * [Linktree Clone Preview](https://courtneypurelinktreeclone.netlify.app/)
 ## AUTHORS
-**Courtney Pure** [GitHub](courtneypure.github.io)
+**Courtney Pure** [GitHub](https://github.com/courtneypure)
