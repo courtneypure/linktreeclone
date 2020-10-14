@@ -1,0 +1,6 @@
+.hero {
+    height: 100vh;
+    padding-top: 40px;
+    background: url(images/hero-image.JPG) center center no-repeat fixed;
+}
+
